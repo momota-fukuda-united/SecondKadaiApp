@@ -13,6 +13,7 @@
 		A0D771A9243494CC007F27D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0D771A7243494CC007F27D3 /* Main.storyboard */; };
 		A0D771AB243494CE007F27D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0D771AA243494CE007F27D3 /* Assets.xcassets */; };
 		A0D771AE243494CE007F27D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0D771AC243494CE007F27D3 /* LaunchScreen.storyboard */; };
+		A0D771B6243496D3007F27D3 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0D771B5243496D3007F27D3 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A0D771AA243494CE007F27D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0D771AD243494CE007F27D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0D771AF243494CE007F27D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0D771B5243496D3007F27D3 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A0D771AA243494CE007F27D3 /* Assets.xcassets */,
 				A0D771AC243494CE007F27D3 /* LaunchScreen.storyboard */,
 				A0D771AF243494CE007F27D3 /* Info.plist */,
+				A0D771B5243496D3007F27D3 /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				A0D771A6243494CC007F27D3 /* ViewController.swift in Sources */,
 				A0D771A2243494CC007F27D3 /* AppDelegate.swift in Sources */,
 				A0D771A4243494CC007F27D3 /* SceneDelegate.swift in Sources */,
+				A0D771B6243496D3007F27D3 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
